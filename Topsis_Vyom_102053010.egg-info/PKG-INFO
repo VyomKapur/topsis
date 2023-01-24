@@ -1,3 +1,20 @@
+Metadata-Version: 2.1
+Name: Topsis-Vyom-102053010
+Version: 0.0.1
+Summary: Topsis
+Author: Vyom Kapur
+Author-email: vkapur_be20@thapar.edu
+Keywords: python,topsis
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+
 
 # Topsis Python Implementation
 
